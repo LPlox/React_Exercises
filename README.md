@@ -1,3 +1,13 @@
+# React Exercises
+
+Open the component folder and see
+
+<ol>
+  <li>TrueFalseStatement.js</li>
+  <li>ListOfFruits.js</li>
+  <li>ProfileEdit</li>
+</ol>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
