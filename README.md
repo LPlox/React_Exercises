@@ -8,6 +8,8 @@ Open the component folder and see
   <li>ProfileEdit</li>
 </ol>
 
+The files inside the component/lecture_files are App.js files we were playing with during DAY 6.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
